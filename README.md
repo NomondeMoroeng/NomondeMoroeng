@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NomondeMoroeng
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning Front End Developement & a bit of Java
+- 🌱 I’m currently learning Java
 
 
 <!---
