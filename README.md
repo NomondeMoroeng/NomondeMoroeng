@@ -23,7 +23,7 @@ I am a dedicated IT professional with a Diploma in Information Technology, speci
 #
 <details>
  <summary><h3>👨‍💻 Nomonde's Cyber Journey</h3></summary>
-**From Curiosity to CyberSecurity: My IT Journey**  
+From Curiosity to CyberSecurity: My IT Journey 
 
 I am a dedicated IT professional, but my journey started with nothing more than curiosity. Growing up, I was always fascinated by how technology worked—how websites loaded, how networks connected, and how cyber threats were prevented. This curiosity led me to pursue a diploma in Information Technology, specializing in systems development with a strong focus on cybersecurity.  
 
