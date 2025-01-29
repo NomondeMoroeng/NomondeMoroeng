@@ -21,10 +21,9 @@ I am a dedicated IT professional with a Diploma in Information Technology, speci
 <br />
 
 #
-<!--
 <details>
  <summary><h3>👨‍💻 Nomonde's Cyber Journey</h3></summary>
-### **From Curiosity to Cloud Security: My IT Journey**  
+**From Curiosity to CyberSecurity: My IT Journey**  
 
 I am a dedicated IT professional, but my journey started with nothing more than curiosity. Growing up, I was always fascinated by how technology worked—how websites loaded, how networks connected, and how cyber threats were prevented. This curiosity led me to pursue a diploma in Information Technology, specializing in systems development with a strong focus on cybersecurity.  
 
@@ -32,8 +31,8 @@ During my studies, I explored various areas of IT, from programming in PHP and J
 
 Determined to expand my knowledge, I dived into hands-on learning through TryHackMe and other cybersecurity labs. I also worked on real-world projects, including phishing awareness simulations and secure web application development. Along the way, I realized that cloud security was the future, and I decided to merge my cybersecurity expertise with cloud technologies.  
 
-Now, I am preparing for multiple certifications, including CompTIA A+ and AZ-900, to sharpen my skills and position myself for a career as a Cloud Security Engineer. While my journey is still ongoing, each step has reinforced my passion for cybersecurity and cloud security.  
+Now, I am preparing for multiple certifications, including CompTIA A+ and AZ-900, to sharpen my skills and position myself for a career as a Cyber Analyst. While my journey is still ongoing, each step has reinforced my passion for cybersecurity and cloud security.  
 
 I share my story to inspire those who are just starting or considering a transition into IT. With dedication, continuous learning, and a willingness to embrace new challenges, anyone can carve out a successful career in this ever-evolving field.  
--->
+
 
